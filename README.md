@@ -1,4 +1,4 @@
-# octant
+# Well plate API
 
 1. Run `npm install express nodemon mongoose cors mongoose-sequence`
 2. then enter `npm start` to get the server running
